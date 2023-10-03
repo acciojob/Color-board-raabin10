@@ -16,7 +16,7 @@ body {
 .square {
     width: 40px;
     height: 40px;
-    background-color: #ccc; /* Initial background color */
+    background-color: rgb(29,29,29); /* Initial background color */
     transition: background-color 1s ease; /* Smooth transition */
     cursor: pointer;
 }
